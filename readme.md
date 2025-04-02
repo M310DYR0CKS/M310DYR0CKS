@@ -1,3 +1,4 @@
+```text
                                           melody@arch
                    -`                     -----------
                   .o+`                    OS: Arch Linux x86_64
@@ -18,4 +19,4 @@
   `+sso+:-`                 `.-/+oso:     Terminal: alacritty 0.15.1
  `++:.                           `-/+/    Terminal Font: Fira Code (12.0pt)
  .`                                 `/    CPU: AMD Ryzen 7 7700X (16) @ 5.79 GHz
-                                          GPU 1: AMD Radeon RX 7800 XT
+                                          GPU 1: AMD Radeon RX 7800 XT [Discrete]```
