@@ -27,3 +27,6 @@
 melodyrockls@proton.me
 ```
 
+![C++ logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg) ![Bash logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png) ![Python logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) ![C logo](https://upload.wikimedia.org/wikipedia/commons/6/69/The_C_Programming_Language_logo.svg) ![Java logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Java_logo_%282013%29.svg) ![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript_logo.svg)
+
+
