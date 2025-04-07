@@ -1,4 +1,4 @@
-```texthttps://chatgpt.com/c/67f34dcf-012c-800c-b97a-f968d76d5fe5
+```text
                                           melody@arch
                    -`                     -----------
                   .o+`                    OS: Arch Linux x86_64
@@ -26,12 +26,13 @@
 ```
 melodyrockls@proton.me
 ```
-![C++ logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg | width=50)
-![Bash logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png | width=50)
-![Python logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg | width=50)
-![C logo](https://upload.wikimedia.org/wikipedia/commons/6/69/The_C_Programming_Language_logo.svg | width=50)
-![Java logo](https://upload.wikimedia.org/wikipedia/commons/4/44/Java_logo_%282013%29.svg | width=50)
-![JavaScript logo](https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript_logo.svg | width=50)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bash_Logo_Colored.svg/1280px-Bash_Logo_Colored.svg.png" alt="Bash logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/The_C_Programming_Language_logo.svg" alt="C logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Java_logo_%282013%29.svg" alt="Java logo" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript_logo.svg" alt="JavaScript logo" width="50" height="50">
+
 
 
 
