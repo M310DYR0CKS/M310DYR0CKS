@@ -22,15 +22,21 @@
                                           GPU 1: AMD Radeon RX 7800 XT [Discrete]
 
 ```
+
 # Contact
-```
-melodyrockls@proton.me
-```
+
+You can reach me at:  
+**[melodyrockls@proton.me](mailto:melodyrockls@proton.me)**
+
+---
 
 # Projects
-```
-Steam Profile Histroy logger, CDR2Discord
-```
+
+Here are some of my projects:
+
+- **[Steam Profile History Logger](#)**: A tool for logging and tracking changes to Steam profiles.
+- **[CDR2Discord](#)**: A system for monitoring and sending CDR (Call Detail Records) data to Discord.
+
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50">
