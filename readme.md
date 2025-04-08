@@ -25,8 +25,8 @@
 
 # Contact
 
-You can reach me at:  
-**[melodyrockls@proton.me](mailto:melodyrockls@proton.me)**
+How you can contact me
+**[E-Mail](mailto:melodyrockls@proton.me)**
 
 ---
 
@@ -34,8 +34,8 @@ You can reach me at:
 
 Here are some of my projects:
 
-- **[Steam Profile History Logger](#)**: A tool for logging and tracking changes to Steam profiles.
-- **[CDR2Discord](#)**: A system for monitoring and sending CDR (Call Detail Records) data to Discord.
+- **Steam Profile History Logger (closed-source)**: A tool for logging and tracking changes to Steam profiles.
+- **[CDR2Discord](https://github.com/M310DYR0CKS/CDR2Discord)**: A system for monitoring and sending CDR (Call Detail Records) data to Discord.
 
 
 <p align="center">
