@@ -49,6 +49,9 @@ Here are some of my projects:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Tux Linux" width="50" height="50">
 
+![Melody's GitHub stats](https://github-readme-stats.vercel.app/api?username=M310DYR0CKS&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M310DYR0CKS&layout=compact&theme=radical)
+
+
 
 
 
