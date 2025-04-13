@@ -40,6 +40,12 @@ Here are some of my projects:
 - **[CDR2Discord](https://github.com/M310DYR0CKS/CDR2Discord)**: A system for monitoring and sending CDR (Call Detail Records) data to Discord.
 
 
+- Lead project manager @N3BULA-Software 
+
+---
+
+
+
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="Bash logo" width="50" height="50">
