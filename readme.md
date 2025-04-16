@@ -41,7 +41,7 @@ Here are some of my projects:
 
 
 - Lead project manager @N3BULA-Software
-- Development Leader **@[Star Alert Relay Network](https://discord.gg/SjRCDX6va4)**:
+- Development Leader **@[Star Alert Relay Network](https://discord.gg/SjRCDX6va4)**
 
 ---
 
