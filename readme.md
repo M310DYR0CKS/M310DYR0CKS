@@ -40,7 +40,8 @@ Here are some of my projects:
 - **[CDR2Discord](https://github.com/M310DYR0CKS/CDR2Discord)**: A system for monitoring and sending CDR (Call Detail Records) data to Discord.
 
 
-- Lead project manager @N3BULA-Software 
+- Lead project manager @N3BULA-Software
+- Development Leader **@[Star Alert Relay Network](https://discord.gg/SjRCDX6va4)**:
 
 ---
 
