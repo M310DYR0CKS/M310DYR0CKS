@@ -41,7 +41,7 @@ Here are some of my projects:
 
 
 - Lead project manager @N3BULA-Software
-- Development Leader **@[Star Alert Relay Network](https://discord.gg/SjRCDX6va4)**
+- Development Leader **@[Star Alert Relay Network](https://www.youtube.com/watch?v=GaAUS0GsG_M)**
 
 ---
 
@@ -50,7 +50,7 @@ Here are some of my projects:
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" alt="Bash logo" width="50" height="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">
+<img src="https::star://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C logo" width="50" height="50">
 <img src="https://img.icons8.com/color/512/java-coffee-cup-logo.png" alt="Java logo" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" alt="JavaScript logo" width="50" height="50">
